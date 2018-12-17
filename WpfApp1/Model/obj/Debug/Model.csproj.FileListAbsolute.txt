@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\WpfApp1\Model\bin\Debug\Model.exe.config
+C:\Users\Admin\source\repos\WpfApp1\Model\bin\Debug\Model.exe
+C:\Users\Admin\source\repos\WpfApp1\Model\bin\Debug\Model.pdb
+C:\Users\Admin\source\repos\WpfApp1\Model\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\source\repos\WpfApp1\Model\obj\Debug\App.g.cs
+C:\Users\Admin\source\repos\WpfApp1\Model\obj\Debug\Model_MarkupCompile.cache
+C:\Users\Admin\source\repos\WpfApp1\Model\obj\Debug\Model_MarkupCompile.lref
+C:\Users\Admin\source\repos\WpfApp1\Model\obj\Debug\MainWindow.baml
+C:\Users\Admin\source\repos\WpfApp1\Model\obj\Debug\Model.g.resources
+C:\Users\Admin\source\repos\WpfApp1\Model\obj\Debug\Model.Properties.Resources.resources
+C:\Users\Admin\source\repos\WpfApp1\Model\obj\Debug\Model.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\WpfApp1\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\WpfApp1\Model\obj\Debug\Model.exe
+C:\Users\Admin\source\repos\WpfApp1\Model\obj\Debug\Model.pdb
+C:\Users\Admin\source\repos\WpfApp1\Model\obj\Debug\Model.csprojAssemblyReference.cache
